@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 65e9886b-eeb9-faa4-12d8-00bf561eaa9c
 ---
@@ -167,7 +170,7 @@ Discussion of isotope papers. Fike seminar in EAPS.
 {{< tdopen >}}
 
 
-Edmonda, John M., and Youngsook Huh. "[Non-steady state carbonate recycling and implications for the evolution of atmospheric PCO2](http://dx.doi.org/10.1016/S0012-821X(03)00510-7)." _Earth and Planetary Science Letters_ 216, no. 1–2 (2003): 125–39.
+Edmonda, John M., and Youngsook Huh. "[Non-steady state carbonate recycling and implications for the evolution of atmospheric P{{< sub "CO2" >}}](http://dx.doi.org/10.1016/S0012-821X(03)00510-7)." _Earth and Planetary Science Letters_ 216, no. 1–2 (2003): 125–39.
 
 Ridgwell, Andy, and Richard E. Zeebe. "[The role of the global carbonate cycle in the regulation and evolution of the Earth system](http://dx.doi.org/10.1016/j.epsl.2005.03.006)." _Earth and Planetary Science Letters_ 234, no. 3–4 (2005): 299–315.
 
@@ -383,7 +386,7 @@ Mesozoic time. Geology and biology. K-T boundary, LPTM. Volcanism, carbon cycle 
 
 DeLong, Edward F. "[The microbial ocean from genomes to biomes](http://dx.doi.org/10.1038/nature08059)". _Nature_ 459 (2009): 200–6.
 
-Zehr, Jonathan P., John B. Waterbury, et al. "[Unicellular cyanobacteria fix N2 in the subtropical North Pacific Ocean](http://dx.doi.org/10.1038/35088063)." _Nature_ 412 (2001): 635–8.
+Zehr, Jonathan P., John B. Waterbury, et al. "[Unicellular cyanobacteria fix N{{< sub "2" >}} in the subtropical North Pacific Ocean](http://dx.doi.org/10.1038/35088063)." _Nature_ 412 (2001): 635–8.
 
 
 {{< tdclose >}}
