@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 97eb13ad-95f3-c4d2-5a91-3f93a4749169
 resourcetype: Document
 title: Geobiology, Assignments 3 Solution
 uid: f98ff599-1180-b66f-5f2c-02eae8b92563
