@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the assignments for the course, including writing
+  assignments and problem sets. Solutions are provided for the problem sets.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 97eb13ad-95f3-c4d2-5a91-3f93a4749169
 ---
@@ -42,19 +47,19 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit12_007s13_pset_3)
+{{% resource_link 9e6ae269-a2f3-a88b-c1c7-96922a1b4d1c "Problem Set 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution 1 (PDF)]({{< baseurl >}}/resources/mit12_007s13_solution_3) (Courtesy of Katherine French. Used with permission.)
+{{% resource_link f98ff599-1180-b66f-5f2c-02eae8b92563 "Solution 1 (PDF)" %}} (Courtesy of Katherine French. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit12_007s13_pset_4)
+{{% resource_link 92a66ae0-80af-302a-29ce-0cf5c2485c5a "Problem Set 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution 2 (PDF)]({{< baseurl >}}/resources/mit12_007s13_solution_4) (Courtesy of Katherine French. Used with permission.)
+{{% resource_link 8e0de5b4-41c6-39e5-95ef-1f7d7d369f74 "Solution 2 (PDF)" %}} (Courtesy of Katherine French. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
