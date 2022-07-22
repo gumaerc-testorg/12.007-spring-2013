@@ -5,6 +5,7 @@ file: /courses/12-007-geobiology-spring-2013/f98ff5991180b66f5f2c02eae8b92563_MI
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Geobiology, Assignments 3 Solution
 uid: f98ff599-1180-b66f-5f2c-02eae8b92563
 ---
 This resource contains solution to problem set 3. 
-
